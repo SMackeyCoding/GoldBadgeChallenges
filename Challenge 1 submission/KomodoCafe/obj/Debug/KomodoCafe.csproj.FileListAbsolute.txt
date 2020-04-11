@@ -1,0 +1,6 @@
+C:\ElevenFiftyProjects\DotNetFeb2020\Gold Badge Challenges\Challenge 1\KomodoCafe\KomodoCafe\bin\Debug\KomodoCafe.exe.config
+C:\ElevenFiftyProjects\DotNetFeb2020\Gold Badge Challenges\Challenge 1\KomodoCafe\KomodoCafe\bin\Debug\KomodoCafe.exe
+C:\ElevenFiftyProjects\DotNetFeb2020\Gold Badge Challenges\Challenge 1\KomodoCafe\KomodoCafe\bin\Debug\KomodoCafe.pdb
+C:\ElevenFiftyProjects\DotNetFeb2020\Gold Badge Challenges\Challenge 1\KomodoCafe\KomodoCafe\obj\Debug\KomodoCafe.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\DotNetFeb2020\Gold Badge Challenges\Challenge 1\KomodoCafe\KomodoCafe\obj\Debug\KomodoCafe.exe
+C:\ElevenFiftyProjects\DotNetFeb2020\Gold Badge Challenges\Challenge 1\KomodoCafe\KomodoCafe\obj\Debug\KomodoCafe.pdb

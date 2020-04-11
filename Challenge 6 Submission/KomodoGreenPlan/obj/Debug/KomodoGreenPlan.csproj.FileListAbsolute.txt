@@ -1,0 +1,6 @@
+C:\ElevenFiftyProjects\DotNetFeb2020\Gold Badge Challenges\Challenge 6\KomodoGreenPlan\KomodoGreenPlan\bin\Debug\KomodoGreenPlan.exe.config
+C:\ElevenFiftyProjects\DotNetFeb2020\Gold Badge Challenges\Challenge 6\KomodoGreenPlan\KomodoGreenPlan\bin\Debug\KomodoGreenPlan.exe
+C:\ElevenFiftyProjects\DotNetFeb2020\Gold Badge Challenges\Challenge 6\KomodoGreenPlan\KomodoGreenPlan\bin\Debug\KomodoGreenPlan.pdb
+C:\ElevenFiftyProjects\DotNetFeb2020\Gold Badge Challenges\Challenge 6\KomodoGreenPlan\KomodoGreenPlan\obj\Debug\KomodoGreenPlan.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\DotNetFeb2020\Gold Badge Challenges\Challenge 6\KomodoGreenPlan\KomodoGreenPlan\obj\Debug\KomodoGreenPlan.exe
+C:\ElevenFiftyProjects\DotNetFeb2020\Gold Badge Challenges\Challenge 6\KomodoGreenPlan\KomodoGreenPlan\obj\Debug\KomodoGreenPlan.pdb
